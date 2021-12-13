@@ -4,7 +4,6 @@
   <groupId>com.vnpt.smartca.android.SDK</groupId>
   <artifactId>VNPTSmartCAAndroidSDK</artifactId>
   <version>0.2-beta</version>
-  <packaging>aar</packaging>
   <dependencies>
     <dependency>
       <groupId>androidx.appcompat</groupId>
