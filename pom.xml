@@ -3,18 +3,9 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.vnpt.smartca.android.SDK</groupId>
   <artifactId>VNPTSmartCAAndroidSDK</artifactId>
-  <version>0.2-beta</version>
+  <version>0.3-beta</version>
+  <packaging>aar</packaging>
   <dependencies>
-    <dependency>
-      <groupId>androidx.appcompat</groupId>
-      <artifactId>appcompat</artifactId>
-      <version>1.4.0</version>
-    </dependency>
-    <dependency>
-      <groupId>com.google.android.material</groupId>
-      <artifactId>material</artifactId>
-      <version>1.4.0</version>
-    </dependency>
     <dependency>
       <groupId>org.jetbrains</groupId>
       <artifactId>annotations</artifactId>
