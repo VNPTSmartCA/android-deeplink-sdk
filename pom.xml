@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.vnpt.smartca.android.SDK</groupId>
   <artifactId>VNPTSmartCAAndroidSDK</artifactId>
-  <version>1.0.1</version>
+  <version>1.0.2</version>
   <dependencies>
     <dependency>
       <groupId>org.jetbrains</groupId>
